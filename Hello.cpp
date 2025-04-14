@@ -3,7 +3,7 @@
 int main() {
     std::cout << "Nombres pairs de 1 à 20 :" << std::endl;
 
-    for (int i = 1; i <= 20; ++i) {
+    for (int i = 1; i <= 30; ++i) {
         if (i % 2 == 0) {
             std::cout << i << " ";
         }
